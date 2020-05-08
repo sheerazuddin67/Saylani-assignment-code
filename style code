@@ -1,0 +1,315 @@
+Sbody{
+  margin: 0;
+}
+.navbar{
+
+}
+.card-text{
+  font-size: 2.5rem;
+}
+.tet{
+  font-size: 1rem;
+}
+.top1{
+  background-color: #4169e1		;
+   padding-top: 10px;
+
+}
+.logo{
+  display: inline-block;
+  padding-left:30px;
+
+}
+.logos{
+  padding-left:80px;
+  display: inline-block;
+}
+.toptext{
+  display: inline-block;
+  padding-left: 80px;
+}
+.topbuttons1{
+  display: inline-block;
+  padding-left: 60px;
+}
+.buttons1{
+  display: inline-block;
+  padding-left: 10px;
+
+  font-size: 14px;
+
+
+}
+.button1{
+
+
+  color: black;
+  text-align: center;
+  background-color: white;
+  width: 50px;
+
+
+ }
+ .button1:hover{
+   text-decoration: none;
+   color: black;
+ }
+.saylogo{
+  height: 60px;
+}
+.brand{
+   padding-left: 70px;
+}
+
+.nav-item{
+  margin: 0 10px;
+}
+.nav-link:hover{
+     background-color: blue;
+     border-radius: 20px;
+}
+.fixedcolor{
+  background-color: blue;
+  border-radius: 20px;
+}
+.carobutton:hover{
+    background-color: #2f4f4f	;
+}
+.carobutton{
+  height: 70px;
+  border-radius: 100%;
+  width: 70px;
+  margin-top: 250px;
+  background-color: #808080		;
+}
+.carousel2{
+  padding-top: 30px;
+}
+.heading1{
+  display: inline-block;
+  text-align: center;
+  color: blue;
+}
+.heading2{
+  display: inline-block;
+  text-align: center;
+  color:green;
+}
+.texting{
+  text-align: center;
+}
+.smlogo{
+  padding-left: 500px;
+}
+.numbers{
+  text-align: center;
+  background-color: blue;
+
+}
+.number1{
+  padding: 40px 80px;
+  text-align: center;
+}
+.logo1{
+  height: 100px;
+  width:100px;
+  margin-left: 90px;
+  color: blue;
+}
+.logo2{
+  height: 90px;
+  width:100px;
+  margin-left: 90px;
+}
+.logo3{
+  height: 90px;
+  width:100px;
+  margin-left: 90px;
+}
+.logo4{
+   margin: 10px 0 0 90px;
+   width: 100px;
+   height: 90px;
+}
+.row1{
+  background-color: blue;
+}
+.card1{
+  background-color: blue;
+  border: none;
+}
+.cardbody{
+  color: white;
+}
+.gridsystem{
+  padding: 3% 5% 0 5%;
+}
+.newcards{
+  padding: 100px;
+  text-align: center;
+  color:  blue;
+
+  font-size: 1.5rem;
+}
+.smlogo2{
+  padding-left: 0px;
+
+}
+.golo{
+  height: 90px;
+  width:100px;
+  margin-left: 120px;
+}
+.tablegap{
+  padding-left: 200px;
+}
+.tablegap1{
+  padding-left: 200px;
+
+}
+.heading3{
+  width:1000px;
+  padding-left: 150px;
+  color: blue;
+
+}
+.heading4{
+  color: blue;
+
+
+}
+.table1{
+  padding-left: 140px;
+  display: inline-block;
+}
+
+.pag{
+  padding-top: 30px;
+}
+
+.image1{
+  width:230px;
+  height: 154px;
+  display: inline;
+
+}
+.imagegallery{
+    padding: 50px 0 50px 0 ;
+}
+.smlogo3{
+
+
+}
+.IMAGES{
+  padding: 50px 0 40px 170px;
+
+}
+
+
+
+
+.contact{
+        background-color: #333333;
+        color: white;
+        padding: 50px 0 50px 0;
+}
+#foot{
+  background-color: #316DD9 !important;
+  height: 40px;
+}
+.foot1{
+  padding: 10px 0 0 120px;
+  color: white;
+  font-size: 13px;
+}
+@media  (max-widh:991px){
+  .number1{
+    padding: auto;
+  }
+
+}
+.hori1{
+  border-color: green;
+  border-width:2px;
+  width: 20%;
+  position: relative;
+  right: 110px;
+
+}
+.hori2{
+  border-color: green;
+  border-width:2px;
+  width: 30%;
+  position: relative;
+  right: 140px;
+}
+.tdb{
+  position: absolute;
+   color:white;
+   padding-left: 200px;
+   padding-top: 50px;
+
+
+}
+.fab{
+  padding: 0 4px 0 4px;
+}
+.List{
+  list-style: none;
+
+}
+.list{
+  display: inline-block;
+
+}
+.fas {
+  color: green;
+}
+.far{
+  color: green;
+}
+.first{
+  padding-left: 40px;
+}
+.twolines{
+  padding-left: 40px;
+}
+.iconn{
+  position: inline;
+}
+.second{
+     padding-left: 70px;
+     position: relative;
+}
+.border{
+  position: absolute;
+  width: 180px;
+  height: 5px;
+  border-radius: 500px;
+  background-image: linear-gradient(to left,white,green);
+}
+.inside{
+  line-height: 2;
+
+  text-align:justify;
+  position: relative;
+  animation: TEXT 5s infinite;
+
+
+}
+@@keyframes TEXT {
+    0%  { left: 100px;left:100px;}
+    100%{left:100px;left:0px;}
+
+}
+.animation1{
+    padding-left: 240px;
+
+}
+.anime{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
